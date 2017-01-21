@@ -1,5 +1,11 @@
 package main
-import "fmt"
+
+import (
+  "fmt"
+  "github.com/jaytheking/learning-go/chapter2"
+)
+
 func main() {
-  fmt.Printf("Hello world!\n %d", 5)
+  fmt.Println("Notes from learning go")
+  chapter2.Chapter2()
 }
