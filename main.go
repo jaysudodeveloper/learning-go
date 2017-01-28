@@ -6,6 +6,7 @@ import (
   "github.com/jaytheking/learning-go/chapter3"
   "github.com/jaytheking/learning-go/chapter4"
   "github.com/jaytheking/learning-go/chapter5"
+  "github.com/jaytheking/learning-go/chapter6"
 )
 
 func main() {
@@ -14,4 +15,5 @@ func main() {
   chapter3.Chapter3()
   chapter4.Chapter4()
   chapter5.Chapter5()
+  chapter6.Chapter6()
 }
